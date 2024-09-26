@@ -51,7 +51,7 @@ const slides: Slide[] = [
     content: {
       image: "/images/image2.webp",
       caption:
-        "We don't see things as they are, we see them as we are—amplified and curated.",
+        "If the algorithm knows you better than you know yourself, whose story is it?",
     },
   },
 
