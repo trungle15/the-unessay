@@ -78,7 +78,8 @@ const slides: Slide[] = [
     type: "imageCaption",
     content: {
       image: "/images/data-point-human-being.png",
-      caption: "When life becomes a series of data points.",
+      caption:
+        "When life becomes a series of data points. You are a part of the algorithm. You are part of the AI and the AI is part of you.",
     },
   },
   {
